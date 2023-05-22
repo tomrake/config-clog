@@ -1,0 +1,6 @@
+#+TTTLE: Configuration for CLOG
+
+* clog configuration
+
+CLOG only needs SSL and CL-SQLITE to be configured.
+My configuration for these are msys2 ucrt64 defiined .dll files.
